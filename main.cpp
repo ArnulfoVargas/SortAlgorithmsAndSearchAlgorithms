@@ -278,4 +278,6 @@ int main(){
         std::cin >> retry;
 
     } while (retry);
+
+    system("pause");
 }
